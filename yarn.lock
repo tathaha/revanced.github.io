@@ -394,14 +394,14 @@
     "@smui/ripple" "^6.0.0-beta.16"
     svelte2tsx "^0.5.5"
 
-"@smui/circular-progress@^6.0.0-beta.16":
-  version "6.0.0-beta.16"
-  resolved "https://registry.yarnpkg.com/@smui/circular-progress/-/circular-progress-6.0.0-beta.16.tgz#063f97d24ea349f32536c02b21b436272f45447e"
-  integrity sha512-d4iLP6pZFB2hbXA04ykBI8fAOHRd8kdvEZnPbFDbyV97BqXVuuQP+TMlqL0a/NppDD9gaC09ZWnGaijlpEAfHg==
+"@smui/circular-progress@^6.0.0":
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/@smui/circular-progress/-/circular-progress-6.0.0.tgz#61c95eb099a4cc2c9a6af86c1705f6dcc5e1df86"
+  integrity sha512-JgbmNPCsm9hvteDsIXOF0/EvPjbcEpUSQKSnt4O4g+xnBUbhf46vP+uOUl+YxqEqrFI5ie4nYm3nHDr/tW/RFg==
   dependencies:
     "@material/circular-progress" "^13.0.0"
-    "@smui/common" "^6.0.0-beta.16"
-    svelte2tsx "^0.5.5"
+    "@smui/common" "^6.0.0"
+    svelte2tsx "^0.5.12"
 
 "@smui/common@^6.0.0", "@smui/common@^6.0.0-beta.16":
   version "6.0.0"

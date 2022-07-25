@@ -403,14 +403,14 @@
     "@smui/common" "^6.0.0-beta.16"
     svelte2tsx "^0.5.5"
 
-"@smui/common@^6.0.0-beta.16":
-  version "6.0.0-beta.16"
-  resolved "https://registry.yarnpkg.com/@smui/common/-/common-6.0.0-beta.16.tgz#ec761c295a1e503df0c7e4b7cb5b33847dc22055"
-  integrity sha512-Ual6505AOP75T+IneOQ6e1tnlhDflJX+yxa9T8Hx5X00MOiULvWACg/RW3c8UEQAc96YnEsA3utv5qDy8tZpmg==
+"@smui/common@^6.0.0", "@smui/common@^6.0.0-beta.16":
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/@smui/common/-/common-6.0.0.tgz#aa422f637a8b00c841ca114f6c0a28548a93b23e"
+  integrity sha512-FU9e/1+KnocxjNfOl3Cdpb+nJEXXnvyfTDUPsBV5bJ0tfOVhfEf3wb0maIGx2wZF1hWyRXlkrk8cU0coBwfGjQ==
   dependencies:
     "@material/dom" "^13.0.0"
     "@tsconfig/svelte" "^3.0.0"
-    svelte2tsx "^0.5.5"
+    svelte2tsx "^0.5.12"
 
 "@smui/drawer@^6.0.0-beta.16":
   version "6.0.0-beta.16"
@@ -434,15 +434,15 @@
     "@smui/ripple" "^6.0.0-beta.16"
     svelte2tsx "^0.5.5"
 
-"@smui/ripple@^6.0.0-beta.16":
-  version "6.0.0-beta.16"
-  resolved "https://registry.yarnpkg.com/@smui/ripple/-/ripple-6.0.0-beta.16.tgz#b5a875165e51703e41e725b7f4cccc3f6106675b"
-  integrity sha512-9vlsFn8ZL0tpWKHmDfZPPzQzdusLNZaA3CzpJKnnMIWvlUZVixR780iHa1YXg0cEEQ2lPlSK4CFJEdiGMFRAow==
+"@smui/ripple@^6.0.0", "@smui/ripple@^6.0.0-beta.16":
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/@smui/ripple/-/ripple-6.0.0.tgz#39aa3532061dc8d7d764cbdd1606889e4defdee4"
+  integrity sha512-fFJcBcZX5wtTm95xRL92iNfdJ9jk8S/puxODS+7BI+GizVlDeiGE3gmQIPsIXxpmGicWQCobjEAKdCXj37fr4w==
   dependencies:
     "@material/dom" "^13.0.0"
     "@material/ripple" "^13.0.0"
-    "@smui/common" "^6.0.0-beta.16"
-    svelte2tsx "^0.5.5"
+    "@smui/common" "^6.0.0"
+    svelte2tsx "^0.5.12"
 
 "@smui/tab-bar@^6.0.0-beta.16":
   version "6.0.0-beta.16"
@@ -455,14 +455,14 @@
     "@smui/tab-scroller" "^6.0.0-beta.16"
     svelte2tsx "^0.5.5"
 
-"@smui/tab-indicator@^6.0.0-beta.16":
-  version "6.0.0-beta.16"
-  resolved "https://registry.yarnpkg.com/@smui/tab-indicator/-/tab-indicator-6.0.0-beta.16.tgz#44950c51239d66a99efb5129d28c5da616398ce7"
-  integrity sha512-VQZQwcVItljBMUtMZCOOKCQ4FibK2MynkUVsWA0ZibvKAb4MXBZHbAnrxhVnQ2rM100HOoog6eXzHJNWrm9U+Q==
+"@smui/tab-indicator@^6.0.0":
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/@smui/tab-indicator/-/tab-indicator-6.0.0.tgz#eb4672776530a071fe16b2b1b269d84a02a57db1"
+  integrity sha512-/vqqUkb9D90EaKppE8QMmiBA6O1zIKGEVkIVBhoqPIVrxd0RCYu2Jq5vZjwOJBP6Ub4SnoR3Xnlv0p0dSY0aZA==
   dependencies:
     "@material/tab-indicator" "^13.0.0"
-    "@smui/common" "^6.0.0-beta.16"
-    svelte2tsx "^0.5.5"
+    "@smui/common" "^6.0.0"
+    svelte2tsx "^0.5.12"
 
 "@smui/tab-scroller@^6.0.0-beta.16":
   version "6.0.0-beta.16"
@@ -474,16 +474,16 @@
     "@smui/common" "^6.0.0-beta.16"
     svelte2tsx "^0.5.5"
 
-"@smui/tab@^6.0.0-beta.15", "@smui/tab@^6.0.0-beta.16":
-  version "6.0.0-beta.16"
-  resolved "https://registry.yarnpkg.com/@smui/tab/-/tab-6.0.0-beta.16.tgz#f309ffea9ce39fb264fa0d2977992959633c4a91"
-  integrity sha512-eizOqQcjLOOMq1bvrrF6b8QPrOYJHz9fQ2hhozk9d7HsX4fw5G4RyJ6psowd/qkG+SYaWj2EuBAs16ZAmxFHOg==
+"@smui/tab@^6.0.0", "@smui/tab@^6.0.0-beta.16":
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/@smui/tab/-/tab-6.0.0.tgz#a5a5801654b43ecd7827f0ec712d62d2a912c772"
+  integrity sha512-2iGDNs+P2D3QadCJuMcY3X8B2Hl9fq2ANv02NClhBaHtnbDMhqFdj7J9jZFI9CUQA34nDsJj67ThYxWeIgGX8Q==
   dependencies:
     "@material/tab" "^13.0.0"
-    "@smui/common" "^6.0.0-beta.16"
-    "@smui/ripple" "^6.0.0-beta.16"
-    "@smui/tab-indicator" "^6.0.0-beta.16"
-    svelte2tsx "^0.5.5"
+    "@smui/common" "^6.0.0"
+    "@smui/ripple" "^6.0.0"
+    "@smui/tab-indicator" "^6.0.0"
+    svelte2tsx "^0.5.12"
 
 "@steeze-ui/simple-icons@^1.0.0-next.0":
   version "1.0.0-next.0"
@@ -3248,10 +3248,10 @@ svelte-preprocess@^4.0.0, svelte-preprocess@^4.10.7:
     sorcery "^0.10.0"
     strip-indent "^3.0.0"
 
-svelte2tsx@^0.5.5:
-  version "0.5.8"
-  resolved "https://registry.yarnpkg.com/svelte2tsx/-/svelte2tsx-0.5.8.tgz#a946920d8c192b29664db61ed290722f65cb60a4"
-  integrity sha512-z5Mfpmy/jkpFIiePAocgWxGRJg+Ka0zlxyvFlpP2X1BoQuXjFC6pnIR9CGebOTmi+W1JnSUAdxrCCj/sEMXZ8Q==
+svelte2tsx@^0.5.12, svelte2tsx@^0.5.5:
+  version "0.5.12"
+  resolved "https://registry.yarnpkg.com/svelte2tsx/-/svelte2tsx-0.5.12.tgz#8370516748377056071eb642669484eae12c8193"
+  integrity sha512-43ayMivmh1IDCgb+4YDf54YuOJZGCUKFpp37RbfjGgNU+Pmb9HhP+zRXa1pMh4mwSTBfqZS0FbJZP3Q8CSxvvg==
   dependencies:
     dedent-js "^1.0.1"
     pascal-case "^3.1.1"

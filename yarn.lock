@@ -444,16 +444,16 @@
     "@smui/common" "^6.0.0"
     svelte2tsx "^0.5.12"
 
-"@smui/tab-bar@^6.0.0-beta.16":
-  version "6.0.0-beta.16"
-  resolved "https://registry.yarnpkg.com/@smui/tab-bar/-/tab-bar-6.0.0-beta.16.tgz#51eb54c6aaf9f677fbc901efbb752fd1dc83cf39"
-  integrity sha512-YCOJxlGIX8sRrvZsljy0KUowb0e0ED7XtbUVIJUldHmY6hFeFSDt6MI1QoNpNfns+7rptYbVIfx7xzSF7PVyYQ==
+"@smui/tab-bar@^6.0.0":
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/@smui/tab-bar/-/tab-bar-6.0.0.tgz#7164053cdf41d1d77cb0908db99f6bb31d6c251b"
+  integrity sha512-uznlklz7y4e02EaEvHPwXj8Akf10Et2PV0h6B5Sd6Za6aKP7oD07MFMBOPAPQVJycNwXhY0r40DM1Y9zlpSU/g==
   dependencies:
     "@material/tab-bar" "^13.0.0"
-    "@smui/common" "^6.0.0-beta.16"
-    "@smui/tab" "^6.0.0-beta.16"
-    "@smui/tab-scroller" "^6.0.0-beta.16"
-    svelte2tsx "^0.5.5"
+    "@smui/common" "^6.0.0"
+    "@smui/tab" "^6.0.0"
+    "@smui/tab-scroller" "^6.0.0"
+    svelte2tsx "^0.5.12"
 
 "@smui/tab-indicator@^6.0.0":
   version "6.0.0"
@@ -464,17 +464,17 @@
     "@smui/common" "^6.0.0"
     svelte2tsx "^0.5.12"
 
-"@smui/tab-scroller@^6.0.0-beta.16":
-  version "6.0.0-beta.16"
-  resolved "https://registry.yarnpkg.com/@smui/tab-scroller/-/tab-scroller-6.0.0-beta.16.tgz#96e49139ff63a265b7e5baf55b4064131f1d5881"
-  integrity sha512-ilf4zeiIELyZcFwxBPbqckxOnoSjRk1VxHbrZJekehwiOwVkzALLdogtx6LwSdw9bg/DDzlG0nrfc/oUYF2VRA==
+"@smui/tab-scroller@^6.0.0":
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/@smui/tab-scroller/-/tab-scroller-6.0.0.tgz#1d61df963a46a97da139f75088b4f86ba6f9d5ec"
+  integrity sha512-s2dcWz5uEOQHEYnliFd6F5wwak8d3ibnorjhkwq3QImgbi5EenZrttNmaPbVbz8xWqV/NjZ12GXqTdlMKECRug==
   dependencies:
     "@material/dom" "^13.0.0"
     "@material/tab-scroller" "^13.0.0"
-    "@smui/common" "^6.0.0-beta.16"
-    svelte2tsx "^0.5.5"
+    "@smui/common" "^6.0.0"
+    svelte2tsx "^0.5.12"
 
-"@smui/tab@^6.0.0", "@smui/tab@^6.0.0-beta.16":
+"@smui/tab@^6.0.0":
   version "6.0.0"
   resolved "https://registry.yarnpkg.com/@smui/tab/-/tab-6.0.0.tgz#a5a5801654b43ecd7827f0ec712d62d2a912c772"
   integrity sha512-2iGDNs+P2D3QadCJuMcY3X8B2Hl9fq2ANv02NClhBaHtnbDMhqFdj7J9jZFI9CUQA34nDsJj67ThYxWeIgGX8Q==

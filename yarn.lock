@@ -380,19 +380,19 @@
     micromatch "^4.0.0"
     p-reduce "^2.0.0"
 
-"@smui/button@^6.0.0-beta.16":
-  version "6.0.0-beta.16"
-  resolved "https://registry.yarnpkg.com/@smui/button/-/button-6.0.0-beta.16.tgz#5681c0be6a15a9e1773a9e760675340101a47e7d"
-  integrity sha512-+sBnqo8PlbvV7R3sHUOu+/y2xqiDwcpjLkW7BVvbK0r3Rit87yKCb5Octa0DnnTmNh9W6bHGe162v760drcSfw==
+"@smui/button@^6.0.0":
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/@smui/button/-/button-6.0.0.tgz#9f1ddfc4b63157565caba0df104e49524b0bbf76"
+  integrity sha512-YYhT9iOTPCJi+fElOBf2GOP/Akbz+AAYg342A3aBGDqwCI9AxtzdNPrrZ7hKyTsFq+ZMk3rgkyaITe//PCWdIA==
   dependencies:
     "@material/button" "^13.0.0"
     "@material/elevation" "^13.0.0"
     "@material/feature-targeting" "^13.0.0"
     "@material/ripple" "^13.0.0"
     "@material/theme" "^13.0.0"
-    "@smui/common" "^6.0.0-beta.16"
-    "@smui/ripple" "^6.0.0-beta.16"
-    svelte2tsx "^0.5.5"
+    "@smui/common" "^6.0.0"
+    "@smui/ripple" "^6.0.0"
+    svelte2tsx "^0.5.12"
 
 "@smui/circular-progress@^6.0.0":
   version "6.0.0"

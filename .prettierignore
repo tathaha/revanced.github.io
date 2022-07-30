@@ -1,3 +1,5 @@
+*.md
+
 # Auto-generated
 static/smui-dark.css
 static/smui.css
